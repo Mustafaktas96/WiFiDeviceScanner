@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "releaseNotes": "WiFi Device Ag cihazları ilk sürüm.",
-  "downloadUrl": "https://github.com/"
+  "versionCode": 2,
+  "versionName": "2.0",
+  "releaseNotes": "Mevcut WiFi Device sürümü. Güvenlik uyarısı ve güncelleme kontrolü hazırlanıyor.",
+  "downloadUrl": "https://github.com/Mustafaktas96/WiFiDeviceScanner/releases"
 }
