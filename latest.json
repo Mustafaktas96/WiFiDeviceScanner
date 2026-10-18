@@ -1,6 +1,7 @@
+
 {
   "versionCode": 2,
   "versionName": "2.0",
-  "releaseNotes": "Mevcut WiFi Device sürümü. Güvenlik uyarısı ve güncelleme kontrolü hazırlanıyor.",
-  "downloadUrl": "https://github.com/Mustafaktas96/WiFiDeviceScanner/releases"
+  "releaseNotes": "WiFi Device 2.0: Güvenlik ve yasal sorumluluk uyarısı ve GitHub güncelleme kontrolü eklendi.",
+  "downloadUrl": "https://github.com/Mustafaktas96/WiFiDeviceScanner/releases/download/v2.0/WifiDevice.V2.0.apk"
 }
