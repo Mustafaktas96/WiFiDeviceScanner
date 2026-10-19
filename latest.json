@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "2.6",
-  "releaseNotes": "Yeni ağ analiz araçları ve hata düzeltmeleri.",
-  "downloadUrl": "https://github.com/Mustafaktas96/WiFiDeviceScanner/releases/latest"
+  "versionCode": 8,
+  "versionName": "2.7",
+  "releaseNotes": "Daha fazla özellikler sistem kararlaştırmaları ve raporlama ,mobil şebeke entegrasyonu eklendi.",
+  "downloadUrl": "https://github.com/Mustafaktas96/WiFiDeviceScanner/releases/download/V2.7/WifiDevice.V2.7.apk"
 }
